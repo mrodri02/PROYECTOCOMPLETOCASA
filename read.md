@@ -31,6 +31,13 @@ Este proyecto convierte una placa Arduino/ESP32 en una "casa de Navidad" que, al
 
 Nota: Si tu placa no es ESP32, ajusta pines y la configuración de PWM según sea necesario.
 
+### Diagrama de conexiones
+
+A continuación tienes un diagrama simplificado de las conexiones. Ajusta los pines si tu placa difiere.
+
+![Diagrama de conexiones](./wiring_diagram.svg)
+
+
 ### Software y librerías
 - Arduino IDE (o PlatformIO) con soporte para ESP32 si usas esa placa.
 - Librería: `IRremote` (incluir desde el Gestor de Librerías de Arduino o instalar manualmente). El sketch incluye `#include <IRremote.h>`.
