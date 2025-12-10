@@ -37,6 +37,8 @@ A continuación tienes un diagrama simplificado de las conexiones. Ajusta los pi
 
 ![Diagrama de conexiones](./wiring_diagram.svg)
 
+![Casa de Navidad](./casanavidad.png)
+
 
 ### Software y librerías
 - Arduino IDE (o PlatformIO) con soporte para ESP32 si usas esa placa.
