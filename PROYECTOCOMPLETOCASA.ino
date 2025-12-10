@@ -110,7 +110,7 @@ void loop() {
     IrReceiver.resume(); 
   }
   
-  // 2. Lógica de Reproducción de Melodía (Sin Bloqueo)
+  // 2. Lógica de Reproducción de Melodía (Sin Bloqueo) . 
   updateMelody();
   
 }
