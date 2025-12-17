@@ -33,11 +33,12 @@ Nota: Si tu placa no es ESP32, ajusta pines y la configuración de PWM según se
 
 ### Diagrama de conexiones
 
-A continuación tienes un diagrama simplificado de las conexiones. Ajusta los pines si tu placa difiere.
+A continuación tienes un diagrama simplificado de las conexiones. Ajusta los pines si tu placa difiere. 
 
 ![Diagrama de conexiones](./wiring_diagram.svg)
 
 ![Casa de Navidad](./casanavidad.png)
+
 
 
 ### Software y librerías
