@@ -70,12 +70,3 @@ Si tu mando usa otros códigos, puedes identificar los códigos recibidos modifi
 - LEDs no encienden: revisa polaridad del LED y que la resistencia no esté en corto. Verifica que la placa esté ejecutando el sketch (mensajes en Serial).
 - Melodía no suena: comprueba que el buzzer sea pasivo y que el pin asignado (4) esté correctamente conectado. Asegúrate de que la placa soporte la API `ledc` (ESP32).
 
-### Autor y licencia
-- Autor: (tu nombre)
-- Licencia: Libre para uso educativo (modifica según prefieras).
-
----
-
-Si quieres, puedo también:
-- Generar un diagrama de conexión simple (ASCII o imagen) basado en las conexiones anteriores.
-- Añadir instrucciones para detectar los códigos del mando desde el sketch y cómo cambiarlos.
