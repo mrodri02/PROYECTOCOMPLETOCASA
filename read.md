@@ -2,7 +2,7 @@
 
 ### Descripción
 
-Este proyecto convierte una placa Arduino/ESP32 en una "casa de Navidad" que, al recibir una señal por infrarrojos desde un mando, enciende dos LEDs decorativos y reproduce un villancico con un buzzer. El control es instantáneo: un botón del mando activa las luces y la melodía, y otro botón apaga todo.
+Este proyecto convierte una placa Arduino/ESP32 en una "casa de Navidad" que, al recibir una señal por infrarrojos desde un mando, enciende dos LEDs decorativos y reproduce un villancico con un buzzer. El control es instantáneo: un botón del mando activa las luces y la melodía, y otro botón apaga todo. 
 
 ### Comportamiento principal
 - Al pulsar el botón definido como `BOTON_ENCENDER` en el mando (código 0x18):
@@ -33,9 +33,7 @@ Nota: Si tu placa no es ESP32, ajusta pines y la configuración de PWM según se
 
 ### Diagrama de conexiones
 
-A continuación tienes un diagrama simplificado de las conexiones. Ajusta los pines si tu placa difiere. 
-
-![Diagrama de conexiones](./wiring_diagram.svg)
+A continuación tienes una imagen del diseño de la casa de navidad:
 
 ![Casa de Navidad](./casanavidad.png)
 
