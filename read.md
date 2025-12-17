@@ -31,12 +31,9 @@ Este proyecto convierte una placa Arduino/ESP32 en una "casa de Navidad" que, al
 
 Nota: Si tu placa no es ESP32, ajusta pines y la configuración de PWM según sea necesario.
 
-### Diagrama de conexiones
-
 A continuación tienes una imagen del diseño de la casa de navidad:
 
 ![Casa de Navidad](./casanavidad.png)
-
 
 
 ### Software y librerías
